@@ -1,1 +1,2 @@
 # Battlesnake
+This program implements a algorithm that is designed to beat an Ai generated snake that is making random movements at the game Battlesnake at 'www.play.battlesnake.com'. This is based off of the popular video game 'Snake', where the snake grows by eating, while also avoiding hitting itself. Instead of just one snake, however, there are two snakes where the main goal is to make the other run into it, declaring a winner.
